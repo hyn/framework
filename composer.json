@@ -13,8 +13,8 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/orbex/multi-tenant/issues",
-        "source": "https://github.com/orbex/framework",
+        "issues": "https://github.com/hyn/multi-tenant/issues",
+        "source": "https://github.com/hyn/framework",
         "docs": "https://hyn.readme.io"
     },
     "require": {
