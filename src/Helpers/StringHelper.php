@@ -51,7 +51,6 @@ class StringHelper
             }
 
             return $return;
-
         }, $string);
     }
 }
